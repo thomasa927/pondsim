@@ -95,6 +95,7 @@ new p5(function (p) {
     mudPatches = [];
   let catchParticles = [];
   let uiButtons = [];
+  let geeseGif = null;
 
   let dragging = null,
     dragOffX = 0,
